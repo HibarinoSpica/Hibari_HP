@@ -1,0 +1,103 @@
+#Top {
+    text-align: center;
+    color: white;
+    margin-bottom: 200px;
+}
+
+#description {
+    background-color: rgba(147, 147, 147, 0.3);
+    width: 550px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#act {
+    background-color: rgba(147, 147, 147, 0.3);
+    width: 550px;
+    height: 300px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#links {
+    background-color: rgba(147, 147, 147, 0.3);
+    width: 550px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#link_img {
+    position: relative;
+    width: 80px;
+    height: auto;
+    border-radius: 50%;
+    top: 10px;
+    left: 30px;
+    float: left;
+    margin: 5px;
+}
+
+#name {
+    font-size: 100px;
+    text-decoration: underline;
+    text-decoration-thickness: 15px;
+    text-decoration-color: purple;
+}
+
+#spica {
+    position: relative;
+    width: 100px;
+    height: auto;
+    top: 10px;
+    left: 10px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+#aboutme, #act_t, #links_t {
+    margin: 3px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+
+#d_txt {
+    position: relative;
+    left: -20px;
+    width: 350px;
+    height: 100px;
+    float:right;
+}
+
+#a_txt {
+    position: relative;
+    left: 50px;
+    width: 550px;
+    height: 500px;
+}
+
+body {
+    background-image: url(../img/BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#page {
+    margin: 0 auto;
+}
+
+div {
+    border-radius: 30px;
+}
+
+p {
+    color: rgb(180, 180, 180);
+}
+
+h1 {
+    color: white;
+}
