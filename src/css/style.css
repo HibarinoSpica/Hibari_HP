@@ -39,6 +39,11 @@
     margin: 5px;
 }
 
+#link_img:hover {
+    width: 100px;
+    border: solid 5px purple;
+}
+
 #name {
     font-size: 100px;
     text-decoration: underline;
